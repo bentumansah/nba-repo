@@ -5,6 +5,6 @@ if sales < target:
     print("Total wage = ", sales + bonus)
 elif sales > target:
     bonus = 200
-    print("Total wage = ", sales + bonus)
+    print("Your total wage = ", sales + bonus)
 else:
     print("There is no bonus for this worker.")
